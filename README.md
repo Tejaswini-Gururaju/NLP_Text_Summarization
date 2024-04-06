@@ -1,6 +1,9 @@
 # NLP_Text_Summarization
 
+The objective of this project id basically summarizing the paragraph/text conversation between 2 friends. Please refer the colab notebook for more details.
+
 # End to end Text-Summarizer-Project
+
 
 ## Workflows
 
