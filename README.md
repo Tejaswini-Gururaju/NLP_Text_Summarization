@@ -4,6 +4,7 @@ The objective of this project id basically summarizing the paragraph/text conver
 
 # End to end Text-Summarizer-Project
 
+Here I have used pre-trained "google-pegasus" model for the text summarization task and "samsum" default dataset for the training.
 
 ## Workflows
 
